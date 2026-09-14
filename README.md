@@ -1,6 +1,7 @@
 # Codeforces Analytics (Pro Max) 📊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-brightgreen?logo=googlechrome)](https://chromewebstore.google.com/detail/codeforces-analytics-pro/gfoledimnmjchddncmedpcieiccnagcj)
 [![Manifest Version](https://img.shields.io/badge/Manifest-V3-success.svg)](manifest.json)
 [![Platform](https://img.shields.io/badge/Platform-Chrome%20%7C%20Edge-blue.svg)](#installation--development)
 
