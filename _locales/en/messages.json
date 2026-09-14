@@ -1,0 +1,20 @@
+{
+  "appName": {
+    "message": "Codeforces Analytics (Pro Max)"
+  },
+  "appDesc": {
+    "message": "Analyze Codeforces profiles with 8 dimensions, bilingual support, and high-res image export."
+  },
+  "popupTitle": {
+    "message": "CF Analytics Pro Max"
+  },
+  "popupDesc": {
+    "message": "The extension is active! Please visit a Codeforces profile page to view the analytics charts."
+  },
+  "btnGoToCF": {
+    "message": "Go to Codeforces"
+  },
+  "btnViewDemo": {
+    "message": "View Demo (tongwentao)"
+  }
+}

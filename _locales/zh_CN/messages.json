@@ -1,0 +1,20 @@
+{
+  "appName": {
+    "message": "CF解题数据可视化 (Pro Max)"
+  },
+  "appDesc": {
+    "message": "全方位分析Codeforces做题数据：支持中英文切换，新增一键生成高清长图分享功能。"
+  },
+  "popupTitle": {
+    "message": "CF 分析助手 Pro Max"
+  },
+  "popupDesc": {
+    "message": "插件已激活！请前往 Codeforces 个人主页查看丰富的可视化分析图表。"
+  },
+  "btnGoToCF": {
+    "message": "前往 Codeforces"
+  },
+  "btnViewDemo": {
+    "message": "查看效果 (tongwentao)"
+  }
+}
