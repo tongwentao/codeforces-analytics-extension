@@ -10,13 +10,13 @@ An intuitive, powerful Chrome extension that enriches Codeforces profile pages w
 
 ---
 
-## 📢 Project Status & Community Maintenance
+## 📢 Project Status: Archived & Unmaintained
 
-> [!NOTE]
-> **To the Community & Maintainers:**
-> The original creator is no longer actively competing on Codeforces and has transitioned away from maintaining this project. 
-> 
-> This repository is fully open-sourced under the **MIT License** to welcome anyone who wishes to **fork, maintain, improve, or publish modernized editions** (such as UI/UX overhauls, new themes, or additional analytics features). PRs and community forks are warmly welcomed!
+> [!IMPORTANT]
+> **Notice to the Community & Potential Maintainers:**
+> - **No Active Maintenance**: The original creator has stepped down from Codeforces and has stopped maintaining this project.
+> - **No PRs Reviewed or Merged**: Due to zero bandwidth, **no pull requests or code submissions will be reviewed, audited, or merged** into this repository. This repository is kept as an archive of the original codebase.
+> - **Forks Welcome**: You are encouraged to **fork** this repository under the MIT License and maintain your own version independently. If you publish your own version or extension, please credit the original repository and extension as per the license.
 
 ---
 
